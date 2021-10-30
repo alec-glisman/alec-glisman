@@ -8,6 +8,13 @@ I am a third-year chemical engineering Ph.D. candidate at Caltech in the Brady g
 
 ---
 
+### 📑 Publications
+
+**Geometry and dynamics of lipid membranes: The Scriven-Love number**, Physical Review E, 2020
+[doi](https://doi.org/10.1103/PhysRevE.101.052401), [arXiv](https://arxiv.org/abs/1910.10693)
+
+---
+
 ### 💻 Code development
 
 #### Languages
