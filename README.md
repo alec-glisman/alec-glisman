@@ -30,3 +30,5 @@ I am a third-year chemical engineering Ph.D. candidate at Caltech in the Brady g
 ### :zap: Recent activity
 
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#1](https://github.com/alec-glisman/alec-glisman/issues/1) in [alec-glisman/alec-glisman](https://github.com/alec-glisman/alec-glisman)
+<!--END_SECTION:activity-->
