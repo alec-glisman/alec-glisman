@@ -38,6 +38,7 @@ I am a third-year chemical engineering Ph.D. candidate at Caltech in the Brady g
 - **Git:** Version control
 - **GitHub actions:** CI platform.
 - **Ansible:** Automation of server-management and package installation across personal machines.
+- **Doxygen:** Code documentation generator
 - **Vim:** Terminal text editor
 - **Visual Studio Code:** GUI text editor
 
