@@ -4,9 +4,9 @@ I am a third-year chemical engineering Ph.D. candidate at Caltech in the Brady g
 
 [![Alec's GitHub stats](https://github-readme-stats-alec-glisman.vercel.app/api?username=alec-glisman&count_private=true&theme=onedark)](https://github.com/alec-glisman/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-alec-glisman.vercel.app/api/top-langs/?username=alec-glisman&theme=onedark&card_width=495)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-alec-glisman.vercel.app/api/top-langs/?username=alec-glisman&theme=onedark&card_width=495)](https://github.com/alec-glisman/github-readme-stats)
 
-[![Alec's wakatime stats](https://github-readme-stats-alec-glisman.vercel.app/api/wakatime?username=alecglisman&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Alec's wakatime stats](https://github-readme-stats-alec-glisman.vercel.app/api/wakatime?username=alecglisman&theme=onedark)](https://github.com/alec-glisman/github-readme-stats)
 
 ---
 
