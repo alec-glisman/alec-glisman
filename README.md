@@ -2,11 +2,11 @@
 
 I am a third-year chemical engineering Ph.D. candidate at Caltech in the Brady group where I study hydrodynamic interactions between bodies in potential flow.
 
-[![Alec's GitHub stats](https://github-readme-stats-working-alec-glisman.vercel.app/api?username=alec-glisman&count_private=true&theme=onedark)](https://github.com/alec-glisman/github-readme-stats)
+[![Alec's GitHub stats](https://github-readme-stats-working-alec-glisman.vercel.app/api?username=alec-glisman&count_private=true&theme=onedark&hide_border=true&include_all_commits=true&show_icons=true&card_width=445)](https://github.com/alec-glisman/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-working-alec-glisman.vercel.app/api/top-langs/?username=alec-glisman&theme=onedark&card_width=495)](https://github.com/alec-glisman/github-readme-stats)
+[![Top Langs](https://github-readme-stats-working-alec-glisman.vercel.app/api/top-langs/?username=alec-glisman&count_private=true&theme=onedark&hide_border=true&hide=CSS,Mathematica&langs_count=12&card_width=495)](https://github.com/alec-glisman/github-readme-stats)
 
-[![Alec's wakatime stats](https://github-readme-stats-working-alec-glisman.vercel.app/api/wakatime?username=alecglisman&theme=onedark)](https://github.com/alec-glisman/github-readme-stats)
+[![Alec's wakatime stats](https://github-readme-stats-working-alec-glisman.vercel.app/api/wakatime?username=alecglisman&theme=onedark&hide_border=true&layout=compact&card_width=495)](https://github.com/alec-glisman/github-readme-stats)
 
 ---
 
