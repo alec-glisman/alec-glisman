@@ -2,6 +2,9 @@
 
 I am a third-year chemical engineering Ph.D. candidate at Caltech in the Brady group where I study hydrodynamic interactions between bodies in potential flow.
 
+Note that stats can only display information on public repositories.
+Most of my work occurs in private repositories.
+
 ![Alec's GitHub stats](https://github-readme-stats.vercel.app/api?username=alec-glisman&count_private=rue&show_icons=true&theme=onedark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alec-glisman&theme=onedark&card_width=495)](https://github.com/anuraghazra/github-readme-stats)
@@ -10,8 +13,8 @@ I am a third-year chemical engineering Ph.D. candidate at Caltech in the Brady g
 
 ### 📑 Publications
 
-**Geometry and dynamics of lipid membranes: The Scriven-Love number**, Physical Review E, 2020
-[doi](https://doi.org/10.1103/PhysRevE.101.052401), [arXiv](https://arxiv.org/abs/1910.10693)
+**Geometry and dynamics of lipid membranes: The Scriven-Love number**, Physical Review E, 2020  
+[DOI](https://doi.org/10.1103/PhysRevE.101.052401), [arXiv](https://arxiv.org/abs/1910.10693)
 
 ---
 
