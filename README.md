@@ -2,14 +2,13 @@
 
 I am a third-year chemical engineering Ph.D. candidate at Caltech in the Brady group where I study hydrodynamic interactions between bodies in potential flow.
 
-Note that stats can only display information on public repositories.
-Most of my work occurs in private repositories.
+[![Alec's GitHub stats](https://github-readme-stats-alec-glisman.vercel.app/api?username=alec-glisman&count_private=true&theme=onedark)](https://github.com/alec-glisman/github-readme-stats)
 
-![Alec's GitHub stats](https://github-readme-stats.vercel.app/api?username=alec-glisman&count_private=rue&show_icons=true&theme=onedark)
+[![Top Langs](https://github-readme-stats-alec-glisman.vercel.app/api/top-langs/?username=alec-glisman&theme=onedark&card_width=495)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alec-glisman&theme=onedark&card_width=495)](https://github.com/anuraghazra/github-readme-stats)
+[![Alec's wakatime stats](https://github-readme-stats-alec-glisman.vercel.app/api/wakatime?username=alecglisman&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-![WakaTime Stats](https://raw.githubusercontent.com/alec-glisman/alec-glisman/main/images/wakatime_weekly_language_stats.svg)
+---
 
 ### 📑 Publications
 
