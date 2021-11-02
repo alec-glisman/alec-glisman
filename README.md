@@ -9,7 +9,7 @@ Most of my work occurs in private repositories.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alec-glisman&theme=onedark&card_width=495)](https://github.com/anuraghazra/github-readme-stats)
 
----
+![WakaTime Stats](https://raw.githubusercontent.com/alec-glisman/alec-glisman/main/images/wakatime_weekly_language_stats.svg)
 
 ### 📑 Publications
 
