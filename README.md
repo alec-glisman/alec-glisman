@@ -6,7 +6,7 @@ I am a third-year chemical engineering Ph.D. candidate at Caltech in the Brady g
 
 [![Top Langs](https://github-readme-stats-working-alec-glisman.vercel.app/api/top-langs/?username=alec-glisman&count_private=true&theme=onedark&hide_border=true&hide=CSS,Mathematica&langs_count=12&card_width=495)](https://github.com/alec-glisman/github-readme-stats)
 
-[![Alec's wakatime stats](https://github-readme-stats-working-alec-glisman.vercel.app/api/wakatime?username=alecglisman&theme=onedark&hide_border=true&layout=compact&card_width=495)](https://github.com/alec-glisman/github-readme-stats)
+<!-- [![Alec's wakatime stats](https://github-readme-stats-working-alec-glisman.vercel.app/api/wakatime?username=alecglisman&theme=onedark&hide_border=true&layout=compact&card_width=495)](https://github.com/alec-glisman/github-readme-stats) -->
 
 ## 📑 Publications
 
@@ -51,6 +51,3 @@ I am a third-year chemical engineering Ph.D. candidate at Caltech in the Brady g
 ## :zap: Recent activity
 
 <!--START_SECTION:activity-->
-
-1. ❗️ Closed issue [#1](https://github.com/alec-glisman/alec-glisman/issues/1) in [alec-glisman/alec-glisman](https://github.com/alec-glisman/alec-glisman)
-<!--END_SECTION:activity-->
