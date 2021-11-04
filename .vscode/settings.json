@@ -4,8 +4,11 @@
         "CUDA",
         "divykj",
         "Doxygen",
+        "Eigen",
         "Mathematica",
+        "Matplotlib",
         "Scriven",
+        "Spdlog",
         "vcpkg",
         "wakatime"
     ]
