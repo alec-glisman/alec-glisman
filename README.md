@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 I am a third-year chemical engineering Ph.D. candidate at Caltech in the Brady group where I study hydrodynamic interactions between bodies in potential flow.
 
@@ -8,18 +8,16 @@ I am a third-year chemical engineering Ph.D. candidate at Caltech in the Brady g
 
 [![Alec's wakatime stats](https://github-readme-stats-working-alec-glisman.vercel.app/api/wakatime?username=alecglisman&theme=onedark&hide_border=true&layout=compact&card_width=495)](https://github.com/alec-glisman/github-readme-stats)
 
----
 
-### 📑 Publications
+## 📑 Publications
 
 **Geometry and dynamics of lipid membranes: The Scriven-Love number**, Physical Review E, 2020  
 [DOI](https://doi.org/10.1103/PhysRevE.101.052401), [arXiv](https://arxiv.org/abs/1910.10693)
 
----
 
-### 💻 Code development
+## 💻 Code development
 
-#### Languages
+### Languages
 
 - **Shell:** Linux management
 - **C++/CUDA:** Numerical simulation packages
@@ -29,24 +27,30 @@ I am a third-year chemical engineering Ph.D. candidate at Caltech in the Brady g
 - **Wolfram Mathematica:** Computer algebra/calculus system
 - **LaTeX:** Document typesetting
 
-#### Environment portability
+### Environment portability
 
 - **Docker:** Containers with persistent bound volumes for data I/O.
 - **vcpkg:** C++ package manager
 - **Miniconda:** Python package manager
 
-#### Tools
+### Tools
 
 - **Git:** Version control
+- **ssh:** Remote development and server management
 - **GitHub actions:** CI platform.
-- **Ansible:** Automation of server-management and package installation across personal machines.
-- **Doxygen:** Code documentation generator
+- **Python**
+  - **Ansible:** Automation of server management and package installation across personal machines.
+  - **NumPy/Pandas/SciPy:** Numerical linear algebra and data analysis
+  - **Matplotlib:** Plots and figures
+- **C++**
+  - **Catch2:** Unit testing
+  - **spdlog:** Logging
+  - **eigen3:** Numerical linear algebra
+  - **Doxygen:** Code documentation generator
 - **Vim:** Terminal text editor
 - **Visual Studio Code:** GUI text editor
 
----
-
-### :zap: Recent activity
+## :zap: Recent activity
 
 <!--START_SECTION:activity-->
 
