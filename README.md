@@ -8,12 +8,10 @@ I am a third-year chemical engineering Ph.D. candidate at Caltech in the Brady g
 
 [![Alec's wakatime stats](https://github-readme-stats-working-alec-glisman.vercel.app/api/wakatime?username=alecglisman&theme=onedark&hide_border=true&layout=compact&card_width=495)](https://github.com/alec-glisman/github-readme-stats)
 
-
 ## 📑 Publications
 
 **Geometry and dynamics of lipid membranes: The Scriven-Love number**, Physical Review E, 2020  
 [DOI](https://doi.org/10.1103/PhysRevE.101.052401), [arXiv](https://arxiv.org/abs/1910.10693)
-
 
 ## 💻 Code development
 
@@ -30,7 +28,7 @@ I am a third-year chemical engineering Ph.D. candidate at Caltech in the Brady g
 ### Environment portability
 
 - **Docker:** Containers with persistent bound volumes for data I/O.
-- **vcpkg:** C++ package manager
+- **Vcpkg:** C++ package manager
 - **Miniconda:** Python package manager
 
 ### Tools
@@ -44,8 +42,8 @@ I am a third-year chemical engineering Ph.D. candidate at Caltech in the Brady g
   - **Matplotlib:** Plots and figures
 - **C++**
   - **Catch2:** Unit testing
-  - **spdlog:** Logging
-  - **eigen3:** Numerical linear algebra
+  - **Spdlog:** Logging
+  - **Eigen3:** Numerical linear algebra
   - **Doxygen:** Code documentation generator
 - **Vim:** Terminal text editor
 - **Visual Studio Code:** GUI text editor
