@@ -1,8 +1,8 @@
 name: Update README
 
-on:
-  schedule:
-    - cron: "*/30 * * * *"
+on: [pull_request]
+  # schedule:
+    # - cron: "*/30 * * * *"
   workflow_dispatch:
 
 jobs:
