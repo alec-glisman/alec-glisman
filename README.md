@@ -1,12 +1,17 @@
 ## Hi there 👋
 
-I am a third-year chemical engineering Ph.D. candidate at Caltech in the Brady group where I study hydrodynamic interactions between bodies in potential flow.
+I am a third-year chemical engineering Ph.D. candidate at Caltech in the Wang group.
+My research centers on studying how small-ions and local water structure affect the structure and dynamics of aqueous polyelectrolytes.
+I use multiscale simulation techniques to generate phase diagrams of polyelectrolytes in an aqueous bulk and at crystalline interfaces.
 
-[![Alec's GitHub stats](https://github-readme-stats-working-alec-glisman.vercel.app/api?username=alec-glisman&count_private=true&theme=onedark&hide_border=true&include_all_commits=true&show_icons=true&card_width=445)](https://github.com/alec-glisman/github-readme-stats)
+## 🔗 Links
 
-[![Top Langs](https://github-readme-stats-working-alec-glisman.vercel.app/api/top-langs/?username=alec-glisman&count_private=true&theme=onedark&hide_border=true&hide=CSS,Mathematica&langs_count=12&card_width=495)](https://github.com/alec-glisman/github-readme-stats)
-
-<!-- [![Alec's wakatime stats](https://github-readme-stats-working-alec-glisman.vercel.app/api/wakatime?username=alecglisman&theme=onedark&hide_border=true&layout=compact&card_width=495)](https://github.com/alec-glisman/github-readme-stats) -->
+- [Professional Website](https://alec-glisman.github.io/)  
+- [Zhen-Gang Wang Group Website](http://zgwlab.che.caltech.edu/?page_id=21)  
+- [LinkedIn](https://www.linkedin.com/in/alec-glisman/)  
+- [Google Scholar](https://scholar.google.com/citations?user=wGifpRQAAAAJ&hl=en)  
+- [arXiv](https://arxiv.org/search/?searchtype=author&query=Glisman%2C+A)  
+- [ORCID](https://orcid.org/0000-0001-9677-1958)  
 
 ## 📑 Publications
 
@@ -17,7 +22,7 @@ I am a third-year chemical engineering Ph.D. candidate at Caltech in the Brady g
 
 ### Languages
 
-- **Shell:** Linux management
+- **Shell:** Linux management and job scripting
 - **C++/CUDA:** Numerical simulation packages
 - **CMake:** Building and testing C++ projects
 - **Python:** Numerical data analysis
@@ -27,17 +32,20 @@ I am a third-year chemical engineering Ph.D. candidate at Caltech in the Brady g
 
 ### Environment portability
 
-- **Docker:** Containers with persistent bound volumes for data I/O.
-- **Vcpkg:** C++ package manager
+- **Docker:** Containers with persistent bound volumes for data I/O
+- **Slurm:** Job scheduler for distributed and high-performance computing
+- **Ansible:** Software provisioning, configuration management, and application-deployment tool enabling infrastructure as code
 - **Miniconda:** Python package manager
+- **Vcpkg:** C++ package manager
 
 ### Tools
 
 - **Git:** Version control
-- **ssh:** Remote development and server management
+- **SSH:** Remote development and server management
+- **Tmux:** Terminal multiplexing
+- **Neovim:** Terminal text editor
 - **GitHub actions:** CI platform.
 - **Python**
-  - **Ansible:** Automation of server management and package installation across personal machines.
   - **NumPy/Pandas/SciPy:** Numerical linear algebra and data analysis
   - **Matplotlib:** Plots and figures
 - **C++**
@@ -45,13 +53,12 @@ I am a third-year chemical engineering Ph.D. candidate at Caltech in the Brady g
   - **Spdlog:** Logging
   - **Eigen3:** Numerical linear algebra
   - **Doxygen:** Code documentation generator
-- **Vim:** Terminal text editor
 - **Visual Studio Code:** GUI text editor
 
-## :zap: Recent activity
+<!-- ## :zap: Recent activity -->
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/alec-glisman/alec-glisman/issues/1) in [alec-glisman/alec-glisman](https://github.com/alec-glisman/alec-glisman)
-2. 🗣 Commented on [#1](https://github.com/alec-glisman/alec-glisman/issues/1) in [alec-glisman/alec-glisman](https://github.com/alec-glisman/alec-glisman)
-3. ❗️ Opened issue [#1](https://github.com/alec-glisman/alec-glisman/issues/1) in [alec-glisman/alec-glisman](https://github.com/alec-glisman/alec-glisman)
-<!--END_SECTION:activity-->
+<!-- 1. ❗️ Closed issue [#1](https://github.com/alec-glisman/alec-glisman/issues/1) in [alec-glisman/alec-glisman](https://github.com/alec-glisman/alec-glisman) -->
+<!-- 2. 🗣 Commented on [#1](https://github.com/alec-glisman/alec-glisman/issues/1) in [alec-glisman/alec-glisman](https://github.com/alec-glisman/alec-glisman) -->
+<!-- 3. ❗️ Opened issue [#1](https://github.com/alec-glisman/alec-glisman/issues/1) in [alec-glisman/alec-glisman](https://github.com/alec-glisman/alec-glisman) -->
+<!-- END_SECTION:activity -->

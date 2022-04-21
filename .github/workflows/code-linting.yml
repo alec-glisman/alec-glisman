@@ -1,0 +1,28 @@
+name: Code Linting
+on: [pull_request]
+
+jobs:
+  code_super_lint:
+    runs-on: ubuntu-20.04
+
+    steps:
+      - name: Fetch actions (v2)
+        uses: actions/checkout@v2
+        with:
+          submodules: true
+
+      - name: Remove external software files before linting
+        uses: JesseTG/rm@v1.0.2
+        with:
+          path: software
+
+      - name: Super-Linter
+        uses: github/super-linter@v4.8.1
+        env:
+          VALIDATE_ALL_CODEBASE: false
+          VALIDATE_HTML: false
+          VALIDATE_CSS: false
+          VALIDATE_JAVASCRIPT_ES: false
+          VALIDATE_JAVASCRIPT_STANDARD: false
+          DEFAULT_BRANCH: main
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

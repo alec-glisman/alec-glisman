@@ -7,9 +7,16 @@
         "Eigen",
         "Mathematica",
         "Matplotlib",
+        "Miniconda",
+        "multiscale",
+        "Neovim",
+        "ORCID",
+        "polyelectrolytes",
         "Scriven",
+        "Slurm",
         "Spdlog",
         "vcpkg",
-        "wakatime"
+        "wakatime",
+        "Zhen"
     ]
 }
