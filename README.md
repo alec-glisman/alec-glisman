@@ -21,6 +21,13 @@ I use multiscale simulation techniques to generate phase diagrams of polyelectro
 **Geometry and dynamics of lipid membranes: The Scriven-Love number**, Physical Review E, 2020  
 [DOI](https://doi.org/10.1103/PhysRevE.101.052401), [arXiv](https://arxiv.org/abs/1910.10693)
 
+## 🧪 Molecular simulation packages
+
+- **GROMACS:** Molecular dynamics
+- **PLUMED:** Enhanced sampling
+- **ORCA:** Quantum chemistry
+- **AutoDock Vina:** Molecular docking
+
 ## 💻 Code development
 
 ### Languages
@@ -33,13 +40,6 @@ I use multiscale simulation techniques to generate phase diagrams of polyelectro
 - **Wolfram Mathematica:** Computer algebra/calculus system
 - **FORTRAN:** Legacy simulation package support
 - **SQL:** Database management
-
-## Molecular simulation packages
-
-- **GROMACS:** Molecular dynamics
-- **PLUMED:** Enhanced sampling
-- **ORCA:** Quantum chemistry
-- **AutoDock Vina:** Molecular docking
 
 ### Environment portability
 
