@@ -1,19 +1,28 @@
 ## Hi there 👋
 
-I am a fifth-year chemical engineering Ph.D. candidate at Caltech in the Wang group.
-My research centers on studying how small-ions and local water structure affect the structure and dynamics of aqueous polyelectrolytes.
-I use multiscale simulation techniques to generate phase diagrams of polyelectrolytes in an aqueous bulk and at crystalline interfaces.
+I am a Senior Machine Learning Scientist at Merck & Co., Inc., working on applying machine learning techniques to drug discovery and development.
+My work focuses on leveraging generative ai and predictive modeling to accelerate the identification of novel therapeutic candidates and optimize their properties to deliver safe and effective medicines to patients faster.
+
+Prior to joining Merck, I recieved my Ph.D. in Chemical Engineering from the California Institute of Technology (Caltech), where I focused on molecular simulations of polyelectrolytes and their interactions with ions and water.
+I employed multiscale simulation techniques to generate phase diagrams of polyelectrolytes in an aqueous bulk and at crystalline interfaces.
 
 ## 🔗 Links
 
-- [Professional Website](https://alec-glisman.github.io/)  
 - [LinkedIn](https://www.linkedin.com/in/alec-glisman/)  
-- [Zhen-Gang Wang Group Website](http://zgwlab.che.caltech.edu/?page_id=21)  
 - [Google Scholar](https://scholar.google.com/citations?user=wGifpRQAAAAJ&hl=en)  
 - [arXiv](https://arxiv.org/search/?searchtype=author&query=Glisman%2C+A)  
 - [ORCID](https://orcid.org/0000-0001-9677-1958)  
 
 ## 📑 Publications
+
+**Binding Modes and Water-Mediation of Polyelectrolyte Adsorption to a Neutral Calcium Carbonate Surface**, Langmuir, 2025
+[DOI](https://doi/10.1021/acs.langmuir.4c03301)
+
+**Multivalent Ion-Mediated Polyelectrolyte Association and Structure**, Macromolecules, 2024
+[DOI](https://doi/10.1021/acs.macromol.3c02437), [arXiv](https://arxiv.org/abs/2311.10914)
+
+**Adsorption isotherm and mechanism of Calcium-Ion binding to polyelectrolyte**, Langmuir, 2024
+[DOI](https://doi.org/10.1021/acs.langmuir.3c03640), [arXiv](https://arxiv.org/abs/2311.11404)
 
 **Swimming in potential flow**, JFM, 2022
 [DOI](https://doi.org/10.1017/jfm.2022.946)
@@ -23,6 +32,8 @@ I use multiscale simulation techniques to generate phase diagrams of polyelectro
 
 ## 🧪 Molecular simulation packages
 
+- **MOE:** Molecular modeling and simulations
+- **Schrodinger Suite:** GLIDE docking
 - **GROMACS:** Molecular dynamics
 - **PLUMED:** Enhanced sampling
 - **ORCA:** Quantum chemistry
@@ -32,21 +43,19 @@ I use multiscale simulation techniques to generate phase diagrams of polyelectro
 
 ### Languages
 
+- **Python:** Numerical data analysis and machine learning
+- **SQL:** Database management
 - **Shell:** Linux management and job scripting
 - **C++/CUDA:** Numerical simulation packages
-- **CMake:** Building and testing C++ projects
-- **Python:** Numerical data analysis and machine learning
 - **LaTeX:** Document typesetting
-- **Wolfram Mathematica:** Computer algebra/calculus system
 - **FORTRAN:** Legacy simulation package support
-- **SQL:** Database management
 
 ### Environment portability
 
-- **Docker:** Containers with persistent bound volumes for data I/O
-- **Slurm:** Job scheduler for distributed and high-performance computing
+- **Slurm/PBS:** Job scheduler for distributed and high-performance computing
 - **Ansible:** Software provisioning, configuration management, and application-deployment tool enabling infrastructure as code
 - **Spack:** Package manager for scientific software
+- **Docker:** Containers with persistent bound volumes for data I/O
 
 ### Tools
 
@@ -54,9 +63,12 @@ I use multiscale simulation techniques to generate phase diagrams of polyelectro
 - **SSH:** Remote development and server management
 - **GitHub actions:** CI platform.
 - **Python**
+  - **PyTorch/PyTorch Geometric:** Deep learning and graph neural networks
+  - **MLflow:** Machine learning lifecycle management
+  - **Chemprop:** Molecular property prediction
+  - **RDKit:** Chemical informatics
   - **NumPy/Pandas/SciPy:** Numerical linear algebra and data analysis
   - **Scikit-learn/PyTorch:** Machine learning
-  - **RDKit:** Chemical informatics
   - **Matplotlib:** Plots and figures
 - **C++**
   - **Catch2:** Unit testing
