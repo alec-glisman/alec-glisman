@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Alec Glisman  
 
-I bridge **physics-based simulations** with **machine learning architectures** to accelerate molecular design and discovery.  
+I bridge **physics-based simulations** and **cheminformatics** with **machine learning** to accelerate molecular design and drug discovery. My background spans **fluid mechanics**, **polymer physics**, and **generative AI** — from deriving continuum equations to training diffusion models on molecular data.
 
 I’m open to collaboration across **AI for Science**, **molecular modeling**, and **generative chemistry**. Let’s connect and build the next generation of molecular design together.  
 
@@ -14,16 +14,16 @@ I’m open to collaboration across **AI for Science**, **molecular modeling**, a
 Applying predictive **deep learning** models and **generative AI** to accelerate drug discovery by designing, predicting, and optimizing molecular therapeutics for real-world impact.  
 
 🎓 **Ph.D. in Chemical Engineering @ Caltech (Wang & Brady Groups)**  
-Developed **molecular simulations** of polyelectrolytes and multivalent ions to uncover mechanisms of mineralization, adsorption, and polymer–surface interactions using state-of-the-art enhanced sampling techniques.  
+Developed **molecular simulations** of polyelectrolytes and multivalent ions to uncover mechanisms of mineralization, adsorption, and polymer–surface interactions. Applied enhanced sampling techniques (metadynamics, OPES, umbrella sampling) and built **cheminformatics** pipelines for structure–property analysis.  
 
 ---
 
 ## 📚 Publications  
 
-- **Binding Modes and Water-Mediation of Polyelectrolyte Adsorption to a Neutral Calcium Carbonate Surface** — *Langmuir, 2025*  
-  [DOI](https://doi/10.1021/acs.langmuir.4c03301)
+- **Binding Modes and Water-Mediation of Polyelectrolyte Adsorption to a Neutral Calcium Carbonate Surface** — *Langmuir, 2025*
+  [DOI](https://doi.org/10.1021/acs.langmuir.4c03301)
 - **Multivalent Ion-Mediated Polyelectrolyte Association and Structure** — *Macromolecules, 2024*  
-  [DOI](https://doi/10.1021/acs.macromol.3c02437), [arXiv](https://arxiv.org/abs/2311.10914)
+  [DOI](https://doi.org/10.1021/acs.macromol.3c02437), [arXiv](https://arxiv.org/abs/2311.10914)
 - **Adsorption Isotherm and Mechanism of Calcium-Ion Binding to Polyelectrolyte** — *Langmuir, 2024*  
   [DOI](https://doi.org/10.1021/acs.langmuir.3c03640), [arXiv](https://arxiv.org/abs/2311.11404)
 - **Swimming in Potential Flow** — *J. Fluid Mech., 2022*  
@@ -69,12 +69,26 @@ Developed **molecular simulations** of polyelectrolytes and multivalent ions to 
 
 ---
 
+## 🧪 Cheminformatics
+
+- **Molecular representations:** SMILES, InChI, molecular graphs, 3D conformers, pharmacophores
+- **Property prediction:** ADMET modeling, activity cliffs, scaffold analysis
+- **Virtual screening:** structure-based and ligand-based approaches
+- **Databases & tooling:** ChEMBL, PubChem, DrugBank; RDKit, Chemprop, DeepChem
+
+---
+
 ## ⚛️ Physics-Based Simulations  
 
 ### 🧬 Molecular Dynamics  
 
 - `GROMACS` for all-atom and coarse-grained MD simulations  
 - `PLUMED` for enhanced sampling (metadynamics, umbrella sampling, OPES)  
+
+### 🌊 Fluid Mechanics
+
+- Potential flow theory and microswimmer hydrodynamics
+- Lipid membrane geometry and dynamics (Scriven–Love framework)
 
 ### ⚗️ Quantum Chemistry  
 
