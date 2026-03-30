@@ -4,17 +4,28 @@ I bridge **physics-based simulations** and **cheminformatics** with **machine le
 
 I’m open to collaboration across **AI for Science**, **molecular modeling**, and **generative chemistry**. Let’s connect and build the next generation of molecular design together.  
 
-🔗 [LinkedIn](https://www.linkedin.com/in/alec-glisman/) · [Google Scholar](https://scholar.google.com/citations?user=wGifpRQAAAAJ&hl=en) · [arXiv](https://arxiv.org/search/?searchtype=author&query=Glisman%2C+A) · [ORCID](https://orcid.org/0000-0001-9677-1958)
+🔗 [Website](https://alec-glisman.github.io) · [LinkedIn](https://www.linkedin.com/in/alec-glisman/) · [Google Scholar](https://scholar.google.com/citations?user=wGifpRQAAAAJ&hl=en) · [arXiv](https://arxiv.org/search/?searchtype=author&query=Glisman%2C+A) · [ORCID](https://orcid.org/0000-0001-9677-1958)
 
 ---
 
-## 🔬 About Me  
+## 🔬 About Me
 
-💊 **Senior Machine Learning Scientist @ Merck & Co.**  
-Applying predictive **deep learning** models and **generative AI** to accelerate drug discovery by designing, predicting, and optimizing molecular therapeutics for real-world impact.  
+💊 **Senior AI/ML Scientist @ Merck & Co.**
+Applying predictive **deep learning** models and **generative AI** to accelerate drug discovery by designing, predicting, and optimizing small-molecule therapeutics.
 
-🎓 **Ph.D. in Chemical Engineering @ Caltech (Wang & Brady Groups)**  
-Developed **molecular simulations** of polyelectrolytes and multivalent ions to uncover mechanisms of mineralization, adsorption, and polymer–surface interactions. Applied enhanced sampling techniques (metadynamics, OPES, umbrella sampling) and built **cheminformatics** pipelines for structure–property analysis.  
+🎓 **Ph.D. Chemical Engineering, Caltech** (2024) — Wang & Brady Groups
+🎓 **M.S. Chemical Engineering, Caltech** (2022)
+🎓 **B.S. Chemical Engineering, UC Berkeley** (2019)  
+
+---
+
+## 🚀 Featured Projects
+
+| Repository | Description |
+|---|---|
+| [OpenADMET-ExpansionRx](https://github.com/alec-glisman/OpenADMET-ExpansionRx-Blind-Challenge) | ADMET stacked ensemble models — 18th / 400+ in Polaris blind challenge |
+| [DDPM-Enhanced-Sampling](https://github.com/alec-glisman/DDPM-Enhanced-Sampling) | Denoising diffusion models for Boltzmann-consistent polymer conformational sampling |
+| [Swimming-in-Potential-Flow](https://github.com/alec-glisman/Swimming-in-Potential-Flow) | C++/CUDA boundary integral methods — companion code for JFM 2022 paper |
 
 ---
 
@@ -33,83 +44,41 @@ Developed **molecular simulations** of polyelectrolytes and multivalent ions to 
 
 ---
 
-## 🧠 Machine Learning  
+## 🧠 Machine Learning
 
-### 🧩 Representations & Embeddings  
+**Core Areas:** Graph neural networks (GCNs, MPNNs, GATs) · Generative models (VAEs, diffusion, GFlowNets, transformers + RL) · Uncertainty quantification · Transfer & curriculum learning · Conformer ensemble models
 
-- **Molecular formats:** `SMILES`, molecular graphs, 3D conformers, fingerprints  
-- **Augmentation:** SMILES permutation, conformer sampling, noise injection  
-- **Pre-trained embeddings:** ChemBERTa, CheMeleon  
-
-### 🏗️ Architectures  
-
-- **Graph Neural Networks:** GCNs, MPNNs, GATs  
-- **Generative Models:** VAEs, Normalizing Flows, GFlowNets, Diffusion Models, Transformers  
-- **Convolutional Networks:** ResNet, DenseNet, U-Net, ViT  
-- **Recurrent Networks:** GRU, BiLSTM  
-- **Classical ML:** Random Forests, Gradient Boosting, SVMs, kNN, Gaussian Processes  
-
-### 🧭 Training Strategies  
-
-- **Reinforcement Learning:** Policy gradient, reward shaping, exploration and exploitation  
-- **Transfer Learning:** Pre-training, domain adaptation  
-- **Unsupervised Learning:** Clustering (k-means, hierarchical), dimensionality reduction (PCA, t-SNE, UMAP)  
-- **Uncertainty Quantification:** Ensembles, mean–variance estimation, evidential deep learning, MC dropout  
-
-### ⚙️ Frameworks & Tools  
-
-**🧠 Machine Learning**  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![PyTorch Geometric](https://img.shields.io/badge/PyTorch%20Geometric-0081CB?logo=python&logoColor=white) ![Transformers](https://img.shields.io/badge/Transformers-FFD43B?logo=huggingface&logoColor=black) ![Ray Tune](https://img.shields.io/badge/Ray%20Tune-00C4CC?logo=ray&logoColor=white)
-
-**🧬 Chemistry & Simulations**  
-![RDKit](https://img.shields.io/badge/RDKit-00A3E0?logo=python&logoColor=white) ![Chemprop](https://img.shields.io/badge/Chemprop-3C8DBC?logo=chemistry&logoColor=white) ![GROMACS](https://img.shields.io/badge/GROMACS-EB6E1F?logo=gnu-bash&logoColor=white) ![PLUMED](https://img.shields.io/badge/PLUMED-444444?logo=c%2B%2B&logoColor=white)
-
-**🧰 Data Science & DevOps**  
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white) ![MLflow](https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![PyTorch Geometric](https://img.shields.io/badge/PyTorch%20Geometric-0081CB?logo=python&logoColor=white) ![Transformers](https://img.shields.io/badge/Transformers-FFD43B?logo=huggingface&logoColor=black) ![Optuna](https://img.shields.io/badge/Optuna-2980B9?logo=python&logoColor=white) ![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white) ![MLflow](https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white)
 
 ---
 
-## 🧪 Cheminformatics
+## 🧪 Cheminformatics & Drug Discovery
 
-- **Molecular representations:** SMILES, InChI, molecular graphs, 3D conformers, pharmacophores
-- **Property prediction:** ADMET modeling, activity cliffs, scaffold analysis
-- **Virtual screening:** structure-based and ligand-based approaches
-- **Databases & tooling:** ChEMBL, PubChem, DrugBank; RDKit, Chemprop, DeepChem
+- **Drug Discovery:** Structure-based & ligand-based design, de novo generation, lead optimization, multi-parameter optimization (MPO), ADMET prediction, synthesizability screening, virtual screening
+- **Representations:** SMILES, InChI, molecular graphs, 3D conformers, ECFP fingerprints, pharmacophores, pre-trained embeddings (ChemBERTa, CheMeleon)
+- **Databases & Tools:** ChEMBL, PubChem, DrugBank; Schrödinger Suite, AutoDock Vina
 
----
-
-## ⚛️ Physics-Based Simulations  
-
-### 🧬 Molecular Dynamics  
-
-- `GROMACS` for all-atom and coarse-grained MD simulations  
-- `PLUMED` for enhanced sampling (metadynamics, umbrella sampling, OPES)  
-
-### 🌊 Fluid Mechanics
-
-- Potential flow theory and microswimmer hydrodynamics
-- Lipid membrane geometry and dynamics (Scriven–Love framework)
-
-### ⚗️ Quantum Chemistry  
-
-- `ORCA` for energy calculations and geometry optimizations  
-
-### 🧪 Docking  
-
-- `Schrödinger Suite`, `GLIDE`, and `AutoDock Vina` for ligand–protein docking and screening  
+![RDKit](https://img.shields.io/badge/RDKit-00A3E0?logo=python&logoColor=white) ![Chemprop](https://img.shields.io/badge/Chemprop-3C8DBC?logo=chemistry&logoColor=white) ![DeepChem](https://img.shields.io/badge/DeepChem-4B8BBE?logo=python&logoColor=white)
 
 ---
 
-## 💻 Code Development & Infrastructure  
+## ⚛️ Physics-Based Simulations
 
-### 🧠 Languages  
+- **Molecular Dynamics:** Enhanced sampling (metadynamics, OPES, umbrella sampling, HREX), MDAnalysis, Markov state modeling, free-energy calculations
+- **Continuum & Quantum:** Potential flow theory, microswimmer hydrodynamics, lipid membrane mechanics (Scriven–Love); ORCA for QM; Schrödinger/GLIDE for docking
 
-`Python` · `C++` · `CUDA` · `SQL` · `Shell` · `LaTeX` · `FORTRAN`  
+![GROMACS](https://img.shields.io/badge/GROMACS-EB6E1F?logo=gnu-bash&logoColor=white) ![PLUMED](https://img.shields.io/badge/PLUMED-444444?logo=c%2B%2B&logoColor=white) ![MDAnalysis](https://img.shields.io/badge/MDAnalysis-4B0082?logo=python&logoColor=white)  
 
-### 🧩 Environment & Deployment  
+---
 
-- **HPC Scheduling:** `Slurm`, `PBS`  
-- **Provisioning:** `Ansible`, `Spack`  
-- **Containerization:** `Docker` with persistent volumes  
-- **Version Control:** `Git`, `GitHub`, `GitHub Actions` (CI/CD)  
-- **Editors:** `VS Code`, `Vim`, `Jupyter`
+## 💻 Languages & Infrastructure
+
+`Python` · `C++` · `CUDA` · `SQL` · `Shell` · `LaTeX` · `FORTRAN`
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white)
+
+Slurm · PBS · Ansible · Spack · Git
+
+---
+
+📄 For more on my research, experience, and publications, visit [alec-glisman.github.io](https://alec-glisman.github.io)
