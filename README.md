@@ -1,20 +1,29 @@
 # 👋 Hi there, I'm Alec Glisman  
 
-I bridge **physics-based simulations** and **cheminformatics** with **machine learning** to accelerate molecular design and drug discovery. My background spans **fluid mechanics**, **polymer physics**, and **generative AI** — from deriving continuum equations to training diffusion models on molecular data.
+I bridge **physics-based simulations** and **cheminformatics** with **machine learning** to accelerate molecular design and drug discovery. My background spans fluid mechanics, polymer physics, and generative AI.
 
-I’m open to collaboration across **AI for Science**, **molecular modeling**, and **generative chemistry**. Let’s connect and build the next generation of molecular design together.  
+I'm open to collaborating on **AI for Science**, **molecular modeling**, and **generative chemistry**. Reach out if you're working in these areas.
 
 🔗 [Website](https://alec-glisman.github.io) · [LinkedIn](https://www.linkedin.com/in/alec-glisman/) · [Google Scholar](https://scholar.google.com/citations?user=wGifpRQAAAAJ&hl=en) · [arXiv](https://arxiv.org/search/?searchtype=author&query=Glisman%2C+A) · [ORCID](https://orcid.org/0000-0001-9677-1958)
 
 ---
 
+## ⭐ Highlights
+
+- 🥉 **Top 3%** (10th / 356) in the OpenADMET-ExpansionRx blind challenge for ADMET property prediction
+- 🧬 Built and deployed **generative models** for molecular designs for R-group optimization and core-hopping over validated reaction templates.
+- 📄 **5 peer-reviewed papers** spanning polymer physics, fluid mechanics, and biophysics
+- 🎓 Ph.D. in Chemical Engineering from **Caltech**, advised by Zhen-Gan Wang & John F. Brady
+
+---
+
 ## 🔬 About Me
 
-💊 **Senior AI/ML Scientist @ Merck & Co.**
+💊 **Senior AI/ML Scientist @ Merck & Co.** Modeling & Informatics Group  
 Applying predictive **deep learning** models and **generative AI** to accelerate drug discovery by designing, predicting, and optimizing small-molecule therapeutics.
 
-🎓 **Ph.D. Chemical Engineering, Caltech** (2024) — Wang & Brady Groups
-🎓 **M.S. Chemical Engineering, Caltech** (2022)
+🎓 **Ph.D. Chemical Engineering, Caltech** (2024)  
+🎓 **M.S. Chemical Engineering, Caltech** (2022)  
 🎓 **B.S. Chemical Engineering, UC Berkeley** (2019)  
 
 ---
@@ -22,14 +31,15 @@ Applying predictive **deep learning** models and **generative AI** to accelerate
 ## 🚀 Featured Projects
 
 | Repository | Description |
-|---|---|
-| [OpenADMET-ExpansionRx](https://github.com/alec-glisman/OpenADMET-ExpansionRx-Blind-Challenge) | ADMET stacked ensemble models — 18th / 400+ in Polaris blind challenge |
+| --- | --- |
+| [OpenADMET-ExpansionRx](https://github.com/alec-glisman/OpenADMET-ExpansionRx-Blind-Challenge) | ADMET stacked ensemble models — top 3% (10th / 356) in the OpenADMET-ExpansionRx blind challenge |
 | [DDPM-Enhanced-Sampling](https://github.com/alec-glisman/DDPM-Enhanced-Sampling) | Denoising diffusion models for Boltzmann-consistent polymer conformational sampling |
 | [Swimming-in-Potential-Flow](https://github.com/alec-glisman/Swimming-in-Potential-Flow) | C++/CUDA boundary integral methods — companion code for JFM 2022 paper |
+| [Analysis-Polyelectrolyte-Surface-Adsorption](https://github.com/alec-glisman/Analysis-Polyelectrolyte-Surface-Adsorption) | Analysis pipeline for interfacial polyelectrolyte MD simulations |
 
 ---
 
-## 📚 Publications  
+## 📚 Publications
 
 - **Binding Modes and Water-Mediation of Polyelectrolyte Adsorption to a Neutral Calcium Carbonate Surface** — *Langmuir, 2025*
   [DOI](https://doi.org/10.1021/acs.langmuir.4c03301)
@@ -78,6 +88,15 @@ Applying predictive **deep learning** models and **generative AI** to accelerate
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white)
 
 Slurm · PBS · Ansible · Spack · Git
+
+<!-- ---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alec-glisman&show_icons=true&count_private=true&hide_border=true&theme=default" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alec-glisman&layout=compact&hide_border=true&theme=default" alt="Top languages" height="165" />
+</p>
+
+--- -->
 
 ---
 
